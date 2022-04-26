@@ -7,6 +7,6 @@ A dash application to display different interactive plotly plots depicting the c
 ```virtualenv env```
 - Now that the environment is made, the requirements.txt file can be
 run to install the required dependencies at once. So, run : 
-```pip install requirements.txt```
+```pip install -r requirements.txt```
 - Now, the main file is ready to run. So, run the command:
 ```python main.py```
