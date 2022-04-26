@@ -1,6 +1,7 @@
 # Climate-change-dashboard
 A dash application to display different interactive plotly plots depicting the climate change across the globe
 
+**Refer [this](https://github.com/Anupam0401/Climate-change-dashboard/blob/master/Report_Assignment3b.pdf) pdf for explanation**
 
 # Steps and Instructions to run the code
 - To initialise a virtual enviroment "env", run the following command:
